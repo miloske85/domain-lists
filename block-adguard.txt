@@ -6,6 +6,7 @@
 ||bazaarvoice.com^
 ||brave-today-cdn.brave.com^
 ||cdn-apple.com^
+||cdn.mozilla.net^
 ||cn.pling.com^
 ||config.edge.skype.com^
 ||contentexchange.me^
@@ -30,6 +31,7 @@
 ||metric.gstatic.com^
 ||myshopify.com^
 ||nononsenseapps.com^
+||services.mozilla.com^
 ||revenuecat.com^
 ||samsungapps.com^
 ||samsungcloud.com^
