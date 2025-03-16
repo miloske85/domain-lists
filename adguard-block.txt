@@ -42,4 +42,3 @@
 ||use.fontawesome.com.cdn.cloudflare.net^
 ||www.fontspring.com^
 ||yandex.ru^
-^
